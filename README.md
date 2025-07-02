@@ -18,7 +18,7 @@ Extensive real-world experiments across diverse scenarios (e.g., restaurant, hou
 
 ### Structure for RoboOS 1.0
 <div align="center">
-<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/overview.png" />
+<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/overview.png", width="600" />
 </div>
 
 
@@ -64,11 +64,11 @@ python gradio_ui.py
 ### 🔍 Master Console
 
 <div align="center">
-<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/master_example_0.png" />
+<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/master_example_0.png" , width="600"/>
 </div>
 
 <div align="center">
-<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/master_example_1.png" />
+<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/master_example_1.png" , width="600"/>
 </div>
 
 ### 🤖 Slaver Console
@@ -76,19 +76,19 @@ python gradio_ui.py
 #### Subtask_1 for Realman Single-ARM Robot
 
 <div align="center">
-<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/slaver_subtask_1.png" />
+<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/slaver_subtask_1.png" , width="600"/>
 </div>
 
 
 #### Subtask_2 for Agilex Dual-ARM Robot
 
 <div align="center">
-<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/slaver_subtask_2.png" />
+<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/slaver_subtask_2.png" , width="600"/>
 </div>
 
 
 #### Subtask_3 for Realman Single-ARM Robot
 
 <div align="center">
-<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/slaver_subtask_3.png" />
+<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/slaver_subtask_3.png" , width="600"/>
 </div>
