@@ -2,7 +2,7 @@
 <img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/logo2.png" width="200"/>
 </div>
 
-# RoboOS
+# OpenRoboOS
 RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration
 
 
