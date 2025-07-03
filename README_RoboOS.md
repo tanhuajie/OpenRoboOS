@@ -5,7 +5,11 @@
 # RoboOS
 RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.
 
-***We provide a real-world demo video in [demo.mp4](https://anonymous.4open.science/r/OpenRoboOS-4355/demo.mp4) and a guidance video in [launch.mp4](https://anonymous.4open.science/r/OpenRoboOS-4355/launch.mp4)***
+<div align="center">
+<video src="https://anonymous.4open.science/r/OpenRoboOS-4355/demo.mp4" , width="800"/>
+</div>
+
+<!-- ***We provide a real-world demo video in [demo.mp4](https://anonymous.4open.science/r/OpenRoboOS-4355/demo.mp4) and a guidance video in [launch.mp4](https://anonymous.4open.science/r/OpenRoboOS-4355/launch.mp4)*** -->
 
 
 ## 🔥 Overview
@@ -25,6 +29,10 @@ Extensive real-world experiments across diverse scenarios (e.g., restaurant, hou
 
 
 ## <a id="Manual"> ⭐️ Simple Guide Manual</a>
+
+<div align="center">
+<video src="https://anonymous.4open.science/r/OpenRoboOS-4355/guidance.mp4" , width="800"/>
+</div>
 
 ### 1. Prerequisites
 
@@ -90,12 +98,12 @@ python gradio_ui.py
 #### Subtask_2 for Agilex Dual-ARM Robot
 
 <div align="center">
-<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/slaver_subtask_2.png" , width="600"/>
+<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/slaver_subtask_2.png" , width="800"/>
 </div>
 
 
 #### Subtask_3 for Realman Single-ARM Robot
 
 <div align="center">
-<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/slaver_subtask_3.png" , width="600"/>
+<img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/slaver_subtask_3.png" , width="800"/>
 </div>
