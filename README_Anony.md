@@ -2,8 +2,11 @@
 <img src="https://anonymous.4open.science/r/OpenRoboOS-4355/assets/logo2.png" width="200"/>
 </div>
 
-# OpenRoboOS
-RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration
+# RoboOS
+RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration.
+
+***We provide a real-world demo video in [demo.mp4](https://anonymous.4open.science/r/OpenRoboOS-4355/demo.mp4) and a guidance video in [launch.mp4](https://anonymous.4open.science/r/OpenRoboOS-4355/launch.mp4)***
+
 
 ## 🔥 Overview
 The rise of embodied intelligence has intensified the need for robust multi-agent collaboration in industrial automation, service robotics, and smart manufacturing. However, current robotic systems struggle with critical limitations, including poor cross-embodiment adaptability, inefficient task scheduling, and inadequate dynamic error correction. While end-to-end vision-language-action (VLA) models (e.g., OpenVLA, RDT, Pi-0) exhibit weak long-horizon planning and task generalization, hierarchical VLA models (e.g., Helix, Gemini-Robotics, GR00T-N1) lack cross-embodiment compatibility and multi-agent coordination capabilities.
@@ -32,7 +35,7 @@ Extensive real-world experiments across diverse scenarios (e.g., restaurant, hou
 ### 2. Installation
 
 ```bash
-# Clone the repository
+# Clone the repository (we replace username with xxx temporarily, due to double-blind policy)
 git clone https://github.com/xxx/RoboOS.git
 cd RoboOS
 
