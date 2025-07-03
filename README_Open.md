@@ -27,7 +27,7 @@ Extensive real-world experiments across diverse scenarios (e.g., restaurant, hou
 ## <a id="Manual"> ⭐️ Simple Guide Manual</a>
 
 
-***We provide a usage guidance video in [guidance.mp4](https://anonymous.4open.science/r/OpenRoboOS-4355/guidance.mp4)***
+***We provide a usage guidance video in [manual.mp4](https://anonymous.4open.science/r/OpenRoboOS-4355/manual.mp4)***
 
 
 ### 1. Prerequisites
